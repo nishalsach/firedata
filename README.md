@@ -1,2 +1,2 @@
 # firedata
-Model (sans dataset) for prediction of burnt area from forest fires
+Preprocessing and model (sans dataset) for prediction of burnt area from forest fires
